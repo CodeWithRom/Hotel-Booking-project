@@ -6,6 +6,9 @@ Project Type - Exploratory Data Analysis
 We are exploring the dataset of this project.
 We have done EDA on the given dataset and have the meaningful insights about the trends of hotel bookings and how this analysis is effecting the possible growth measures for the hotel industry
 
+# problem statements
+We have covered the most of problems related to the bookings. We have analysed the issues and solved them.
+
 # Data Cleaning and exploration
 (1) Removing Duplicate rows
 
